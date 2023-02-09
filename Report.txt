@@ -1,0 +1,16 @@
+
+Appointment ID: 3-17/03/2020 
+Date: No Show 
+Time Slot: 17/03/2020 
+Status: Pending 
+Patient ID: 3 
+Patient Symptomps: 09:30AM - 10:00AM 
+ ____________________________________ 
+
+Appointment ID: 3-18/03/2020 
+Date: Finish 
+Time Slot: 18/03/2020 
+Status: Attended 
+Patient ID: 3 
+Patient Symptomps: 09:30AM - 10:00AM 
+ ____________________________________ 
